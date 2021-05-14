@@ -1,11 +1,11 @@
-![Screenshot](logoJava.png) 
-![Screenshot](pythonLogo.png) 
-#      
+![alt-text-1](logoJava.png "title-1") ![alt-text-2](pythonLogo.png "title-2")
+
+
 
 # Desafio-Academia-Capgemini 1ª Parte 
 
  Uma calculadora de alcance de anúncio online 
- # Como execulta.
+ ## Como execulta.
 * Para execulta esse codico voce precisa ter intalado JRE (Java Runtime Environment) ou JDK (Java Development kit) para poder ver o codico execultando. 
 * Para as pessoas que queira ver execultar o codigo e nada mais, baixa o JRE. Link: https://www.oracle.com/br/java/technologies/javase-server-jre8-downloads.html 
 * Para pessoas que quer modificar o codigo, baixa o JDK.  Link: https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html # Abrindo o arquivo 
