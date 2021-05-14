@@ -1,4 +1,4 @@
-<p float="center">
+<p float="">
   <img src="logoJava.png" width="300" />
   <img src="pythonLogo.png" width="300" /> 
 </p>
