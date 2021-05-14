@@ -1,6 +1,7 @@
-![alt-text-1](logoJava.png "title-1") ![alt-text-2](pythonLogo.png "title-2")
-
-
+<p float="center">
+  <img src="logoJava.png" width="300" />
+  <img src="pythonLogo.png" width="300" /> 
+</p>
 
 # Desafio-Academia-Capgemini 1ª Parte 
 
