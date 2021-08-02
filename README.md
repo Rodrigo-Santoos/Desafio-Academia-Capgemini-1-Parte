@@ -1,7 +1,9 @@
+<div align="center">
 <p float="">
-  <img src="logoJava.png" width="300" />
-  <img src="pythonLogo.png" width="300" /> 
+  <img src="logoJava.png" width="100" />
+  <img src="pythonLogo.png" width="100" /> 
 </p>
+</div>
 
 # Desafio-Academia-Capgemini 1ª Parte 
 
