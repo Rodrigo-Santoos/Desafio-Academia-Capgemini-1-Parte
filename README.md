@@ -1,7 +1,7 @@
 <div align="center">
 <p float="">
-  <img src="logoJava.png" width="100" />
-  <img src="pythonLogo.png" width="100" /> 
+  <img src="logoJava.png" width="150" />
+  <img src="pythonLogo.png" width="150" /> 
 </p>
 </div>
 
